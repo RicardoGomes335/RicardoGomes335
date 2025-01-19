@@ -5,14 +5,14 @@
 Me chamo Ricardo Gomes, tenho 49 anos e sou natural de São Paulo, Brasil, sou desenvolvedor Full Stack com ampla experiência em PHP, MySQL e Laravel,. Formado em  Análise e Desenvolvimento de Sistemas na UMC - Universidade de Mogi das Cruzes.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/RicardoGomes335?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
             src="https://custom-icon-badges.demolab.com/github/stars/RicardoGomes335?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/RicardoGomes335?tab=followers">
         <img
             alt="Seguidores"
             title="Me siga no GitHub"
